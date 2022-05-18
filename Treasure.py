@@ -46,3 +46,4 @@ elif choice =="left":
     else:
       print("you enter a room of beasts. Game Over")
 
+ 
